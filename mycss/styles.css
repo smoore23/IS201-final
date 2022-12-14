@@ -1,0 +1,33 @@
+.center {
+    text-align: center;
+}
+.links {
+    font-size: small;
+}
+body {
+    background-color: rgb(219, 219, 240);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-size: large;
+    font-weight: 200;
+}
+.headers {
+    font-size: medium;
+    font-weight: bolder;
+    
+}
+.bold {
+    color: rgb(28, 102, 28);
+}
+
+.imgcontrol {
+    padding-left: 475px;
+}
+.italized {
+    font-style: italic;
+}
+.size {
+   height: min-content;
+   min-width: auto;
+}
